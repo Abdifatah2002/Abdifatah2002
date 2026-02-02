@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Abdifatah Abdi</h1>
+
 # 💫 About Me:
+
 I am a senior Computer Science and Data Science student at the University of Wisconsin–Madison, passionate about building scalable software, applying machine learning to real-world problems, and creating impactful applications.
 
 ## 🚀 What I'm Up To
